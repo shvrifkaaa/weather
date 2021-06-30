@@ -1,0 +1,19 @@
+#pogoda img{
+    width: 80px;
+    height: 80px;
+
+}
+
+.main{
+    background-image: url();
+    height: 100vh;
+}
+.headerToDay{
+    display: flex;
+    justify-content: space-between;
+
+}
+.weather{
+    width: 50%;
+    height: 70vh;
+}
